@@ -1,0 +1,2 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([[3],{295:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),c=(t(119),t(96));n.default=function(e){var n=e.data;return console.log(n),l.a.createElement(c.a,null,l.a.createElement("div",null,"THE INDEX PAGE"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-1269e30f07160f4b854b.js.map
